@@ -14,7 +14,7 @@ Informações adicionais sobre variáveis
 
 Variáveis de entrada: 
 
-<span style='font_weight: bolder'>dados do cliente bancário:</span> 
+<p style='font-weight: 300'>dados do cliente bancário:</p> 
 1.	idade (numérica) 
 2.	emprego: tipo de emprego (categórico: "admin.", "desconhecido", "desempregado", "gerência", "empregada doméstica", "empresário", "estudante", "colarinho azul", "autônomo", "aposentado", "técnico", "serviços") 
 3.	conjugal: estado civil (categórico: "casado", "divorciado", "solteiro"; nota: "divorciado" significa divorciado ou viúvo)
