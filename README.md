@@ -14,7 +14,7 @@ Informações adicionais sobre variáveis
 
 Variáveis de entrada: 
 
-# dados do cliente bancário: 
+<span style='font-weight: bolder>dados do cliente bancário:</span> 
 1.	idade (numérica) 
 2.	emprego: tipo de emprego (categórico: "admin.", "desconhecido", "desempregado", "gerência", "empregada doméstica", "empresário", "estudante", "colarinho azul", "autônomo", "aposentado", "técnico", "serviços") 
 3.	conjugal: estado civil (categórico: "casado", "divorciado", "solteiro"; nota: "divorciado" significa divorciado ou viúvo)
@@ -23,7 +23,7 @@ Variáveis de entrada:
 6.	saldo: saldo médio anual, em euros (numérico)
 7.	habitação: tem crédito habitação? (binário: "sim", "não") 
 8.	empréstimo: tem empréstimo pessoal? (binário: "sim", "não") 
-9.	# relacionado com o último contato da campanha atual:
+9.	#relacionado com o último contato da campanha atual:
 contato: contato tipo de comunicação (categórico: "desconhecido", "telefone", "celular") 
 10.	dia: último contato dia do mês (numérico) 
 11.	mês: último contato mês do ano (categórico: "jan",  "fev",  "mar", ...,  "nov", "dez") 
@@ -33,7 +33,7 @@ contato: contato tipo de comunicação (categórico: "desconhecido", "telefone",
 15.	anterior: número de contatos realizados antes desta campanha e para este cliente (numérico) 
 16.	poutcome: resultado da campanha de marketing anterior (categórico: "desconhecido", "outro", "fracasso", "sucesso") 
 
-# Variável de saída (alvo desejado):  
+Variável de saída (alvo desejado):  
 17.	Y - O cliente subscreveu um depósito a prazo? (binário: "sim", "não")
 
 Link: <a href:'https://archive.ics.uci.edu/dataset/222/bank+marketing'>Bank Marketing - UCI Machine Learning Repository</a>
