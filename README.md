@@ -12,9 +12,9 @@ Os menores conjuntos de dados são fornecidos para testar algoritmos de aprendiz
 O objetivo da classificação é prever se o cliente irá subscrever (sim/não) um depósito a prazo (variável y).
 Informações adicionais sobre variáveis
 
-Variáveis de entrada: 
+## Variáveis de entrada: 
 
-<p style='font-weight: 300'>dados do cliente bancário:</p> 
+## dados do cliente bancário:
 1.	idade (numérica) 
 2.	emprego: tipo de emprego (categórico: "admin.", "desconhecido", "desempregado", "gerência", "empregada doméstica", "empresário", "estudante", "colarinho azul", "autônomo", "aposentado", "técnico", "serviços") 
 3.	conjugal: estado civil (categórico: "casado", "divorciado", "solteiro"; nota: "divorciado" significa divorciado ou viúvo)
@@ -33,7 +33,7 @@ contato: contato tipo de comunicação (categórico: "desconhecido", "telefone",
 15.	anterior: número de contatos realizados antes desta campanha e para este cliente (numérico) 
 16.	poutcome: resultado da campanha de marketing anterior (categórico: "desconhecido", "outro", "fracasso", "sucesso") 
 
-Variável de saída (alvo desejado):  
+## ariável de saída (alvo desejado):  
 17.	Y - O cliente subscreveu um depósito a prazo? (binário: "sim", "não")
 
 Link: <a href:'https://archive.ics.uci.edu/dataset/222/bank+marketing'>Bank Marketing - UCI Machine Learning Repository</a>
